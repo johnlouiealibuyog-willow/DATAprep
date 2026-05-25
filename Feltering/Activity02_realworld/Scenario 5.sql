@@ -1,6 +1,4 @@
---The finance team needs a report of all sales from Q2 2025 (April 1 to June 30) that were paid via GCash.
---Show the sale_date, customer_name, product_name, total_amount, and payment_method. Sort by
---sale_date.
+--Scenario 5: The finance team needs a report of all sales from Q2 2025 (April 1 to June 30) that were paid via GCash. Show the sale_date, customer_name, product_name, total_amount, and payment_method. Sort by sale_date.
 SELECT sale_date,
     customer_name,
     product_name,

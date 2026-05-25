@@ -1,6 +1,4 @@
---The marketing team wants to see all high-value sales (₱10,000 and above) from the NCR region. Show
---the customer_name, product_name, city, and total_amount. Sort by total_amount from highest to
---lowest.
+--Scenario 2: The marketing team wants to see all high-value sales (₱10,000 and above) from the NCR region. Show the customer_name, product_name, city, and total_amount. Sort by total_amount from highest to lowest.
 SELECT customer_name,
     product_name,
     city,
