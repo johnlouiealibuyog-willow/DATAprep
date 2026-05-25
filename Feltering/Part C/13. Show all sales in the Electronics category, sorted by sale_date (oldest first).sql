@@ -1,5 +1,5 @@
 -- Part C, Question 13: Show all sales in the Electronics category, sorted by sale_date (oldest first).
-SELECT * 
-FROM sales 
-WHERE category = 'Electronics' ORDER BY sale_date ASC
--- Result: 16 rows returned
+SELECT *
+FROM sales
+WHERE category = 'Electronics'
+ORDER BY sale_date ASC -- Result: 16 rows returned
