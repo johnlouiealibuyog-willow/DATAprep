@@ -10,4 +10,4 @@ FROM sales
 WHERE payment_method = 'GCash'
     AND sale_date BETWEEN '2025-04-01' AND '2025-06-30'
 ORDER BY sale_date 
---4
+--4 rows returned

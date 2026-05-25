@@ -9,4 +9,4 @@ FROM sales
 WHERE region = 'NCR'
     AND total_amount >= 10000
 ORDER BY total_amount DESC
- --8
+ --8 rows returned

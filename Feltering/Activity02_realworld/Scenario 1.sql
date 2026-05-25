@@ -7,4 +7,4 @@ SELECT item_name,
 FROM inventory
 WHERE quantity_on_hand <= reorder_level
 ORDER BY quantity_on_hand 
---4
+--4 rows returned

@@ -7,4 +7,4 @@ SELECT item_name,
     unit_cost
 FROM inventory
 WHERE item_name LIKE '%Keyboard%' 
---1
+--1 rows returned

@@ -10,4 +10,4 @@ FROM customers
 WHERE region = 'NCR'
     AND city IN ('Manila', 'Makati', 'Quezon City', 'Pasig')
     AND total_orders > 5 
-    --9
+    --9 rows returned
