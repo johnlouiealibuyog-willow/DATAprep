@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Data_prep}/Day05_practice.db",
+            "name": "dataprep"
+        }
+    ]
+}
